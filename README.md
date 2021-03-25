@@ -1,6 +1,6 @@
 # AirData
 
-## Access AirData
+## How to Access AirData
 
 https://aqs.epa.gov/aqsweb/airdata/download_files.html
 
